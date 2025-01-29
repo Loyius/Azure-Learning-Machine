@@ -10,7 +10,7 @@ Neste projeto, foi criado um **modelo de aprendizado de máquina automatizado** 
 
 ---
 
-## 🛠 Passo a Passo: Criando o Serviço de Machine Learning no Azure  
+##  Passo a Passo: Criando o Serviço de Machine Learning no Azure  
 
 ### 1️⃣ Criar um Recurso no Azure  
 1. Acesse o portal do Azure: **[https://portal.azure.com](https://portal.azure.com)**
